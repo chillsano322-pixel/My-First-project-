@@ -1,5 +1,5 @@
-# My-First-project-
-A simple Phython football score tracker built as my first project
+# My-Portfolio
+
 # Hi, I'm David 👋
 
 ##  About Me

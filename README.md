@@ -1,6 +1,6 @@
 # My-Portfolio
 
-# Hello,My name is david
+# Hello,My name is David
 
 ##  About Me
 

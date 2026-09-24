@@ -22,7 +22,7 @@ I'm currently learning programming through self-study and building projects to i
 I'm currently learning the fundamentals of programming and will be adding projects as I develop my skills.
 
 ### 🔹 Project 1
-Coming soon...
+In this project i will be making a simple football tracker where a player can track their progress and search for their name
 
 ### 🔹 Project 2
 Coming soon...

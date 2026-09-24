@@ -19,10 +19,11 @@ I'm currently learning programming through self-study and building projects to i
 
 ## 📂 My Projects
 
-I'm currently learning the fundamentals of programming and will be adding projects as I develop my skills.
+I'm currently learning the fundamentals of programming and will be adding projects as I develop my l
+.
 
 ### 🔹 Project 1
-In this project i will be making a simple football tracker where a player can track their progress and search for their name
+In this project i will be making a simple football tracker where a player can track their progress and search for their name.For this i will be using python to build my project, i started with this project to show my understanding of the key basics of python 
 
 ### 🔹 Project 2
 Coming soon...
